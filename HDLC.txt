@@ -1,0 +1,28 @@
+1) Define the system
+2) Define the HW requirements
+3) Do a prototype
+4) Do integration and testing on with the prototype
+5) create a detailed design package from the prototype
+6) Fabricate the Final product
+7) System integration and testing
+
+
+ Hardware Development Life Cycle
+
+    These are the steps required for the development of hardware life cycle
+    1 Preparation of H/W requirement specification
+    2 review and correction of hw requirement specification
+    3 Preparation of H/W design document
+    4 review and correction of hw design document
+    5 Preparation of Prototype
+    6 testing prototype
+    7 circuit design in orcad capture
+    8 circuit simulation in orcad pspice
+    9 PCB design in orcad layout
+    10 review and correction of PCB layout
+    11 release PCB for manufacturing
+    12 receipt of bare board and test, assembly of bare board with functional testing
+    13 bug report and bug fix
+    14 retest
+    15 final documentation
+    16 Project sign off
